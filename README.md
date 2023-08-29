@@ -14,12 +14,10 @@ This Flutter-based fingerprint authorization application provides a robust and e
 
 ## Getting Started
 
-1. Clone this repository: ```bash 
-https://github.com/samriddha-basu-cloud/fingerprint_auth_app_using_Flutter.git 
-```
-2. Navigate to the project directory: ```bash fingerprint_auth_app_using_Flutter.git``` 
-3. Install dependencies: ```bash flutter pub get```
-4. Run the app on your device/emulator: ```bash flutter run```
+1. Clone this repository: ```https://github.com/samriddha-basu-cloud/fingerprint_auth_app_using_Flutter.git```
+2. Navigate to the project directory: ```fingerprint_auth_app_using_Flutter.git``` 
+3. Install dependencies: ```flutter pub get```
+4. Run the app on your device/emulator: ```flutter run```
 
 ## Usage
 
